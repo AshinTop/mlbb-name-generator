@@ -11,7 +11,9 @@
 
 ## ✨ Live Demo
 
-🚀 ​**Try it now:​**​ [https://AshinTop.github.io/mlbb-name-generator](https://AshinTop.github.io/mlbb-name-generator)
+🚀 ​**Try it now:​**​
+
+[https://mlbb.ashin.top/](https://mlbb.ashin.top/)
 
 ## 🌟 Features
 
@@ -34,7 +36,7 @@ Your MLBB nickname is your identity in the game! Stand out from millions of play
 
 ## 🚀 How to Use
 
-1. ​**Visit**​ the [live demo](https://AshinTop.github.io/mlbb-name-generator)
+1. ​**Visit**​ the [live demo](https://mlbb.ashin.top/)
 2. ​**Optionally**​ enter your desired name in the input field
 3. ​**Click**​ "Generate Names" to create 6 unique MLBB nicknames
 4. ​**Browse**​ through the generated names
@@ -75,7 +77,7 @@ cd mlbb-name-generator
 
 ## 🌐 Online Version
 
-​🌍 Live Website:​​ https://AshinTop.github.io/mlbb-name-generator
+​🌍 Live Website:​​ https://mlbb.ashin.top/
 
 The online version is always up-to-date with the latest features and improvements!
 
@@ -135,7 +137,7 @@ Love this tool? Share it with your MLBB squad!
 Check out this awesome MLBB Name Generator! 🎮
 Create unique nicknames with cool symbols for Mobile Legends!
 
-🌐 https://AshinTop.github.io/mlbb-name-generator
+🌐 https://mlbb.ashin.top/
 
 #MLBB #MobileLegends #Gaming #NameGenerator
 
