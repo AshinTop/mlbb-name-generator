@@ -1,9 +1,11 @@
 # MLBB Name Generator 🎮
 
-[![GitHub stars](https://img.shields.io/github/stars/AshinTop/mlbb-name-generator?style=social)](https://github.com/AshinTop/mlbb-name-generator)
-[![GitHub forks](https://img.shields.io/github/forks/AshinTop/mlbb-name-generator?style=social)](https://github.com/AshinTop/mlbb-name-generator)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AshinTop/mlbb-name-generator/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AshinTop/mlbb-name-generator/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/AshinTop/mlbb-name-generator?style=social)](https://github.com/AshinTop/mlbb-name-generator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshinTop/mlbb-name-generator?style=social)](https://github.com/AshinTop/mlbb-name-generator/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshinTop/mlbb-name-generator)](https://github.com/AshinTop/mlbb-name-generator/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AshinTop/mlbb-name-generator)](https://github.com/AshinTop/mlbb-name-generator/pulls)
+[![GitHub license](https://img.shields.io/github/license/AshinTop/mlbb-name-generator)](https://github.com/AshinTop/mlbb-name-generator/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AshinTop/mlbb-name-generator)](https://github.com/AshinTop/mlbb-name-generator/commits/main)
 
 > Create unique, stylish nicknames with special Unicode symbols for Mobile Legends: Bang Bang
 
@@ -111,13 +113,14 @@ https://api.star-history.com/svg?repos=AshinTop/mlbb-name-generator&type=Date
 
 ## 📊 Project Stats
 
-https://img.shields.io/github/repo-size/AshinTop/mlbb-name-generator
-
-https://img.shields.io/github/issues/AshinTop/mlbb-name-generator
-
-https://img.shields.io/github/issues-pr/AshinTop/mlbb-name-generator
-
-https://img.shields.io/github/last-commit/AshinTop/mlbb-name-generator
+| Stat                     | Badge                                                                                           |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| ​**Repository Size**​    | ![GitHub repo size](https://img.shields.io/github/repo-size/AshinTop/mlbb-name-generator)       |
+| ​**Open Issues**​        | ![GitHub issues](https://img.shields.io/github/issues/AshinTop/mlbb-name-generator)             |
+| ​**Open Pull Requests**​ | ![GitHub pull requests](https://img.shields.io/github/issues-pr/AshinTop/mlbb-name-generator)   |
+| ​**Last Commit**​        | ![GitHub last commit](https://img.shields.io/github/last-commit/AshinTop/mlbb-name-generator)   |
+| ​**Contributors**​       | ![GitHub contributors](https://img.shields.io/github/contributors/AshinTop/mlbb-name-generator) |
+| ​**Stars**​              | ![GitHub stars](https://img.shields.io/github/stars/AshinTop/mlbb-name-generator)               |
 
 ## 📞 Support
 
