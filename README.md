@@ -125,8 +125,8 @@ https://api.star-history.com/svg?repos=AshinTop/mlbb-name-generator&type=Date
 ## 📞 Support
 
 - ​Report Bugs: Create an Issue
-  ​- Request Features: Suggest a Feature
-  ​- Questions: Check our Discussions
+- Request Features: Suggest a Feature
+- Questions: Check our Discussions
 
 ## 🔗 Share With Friends
 
